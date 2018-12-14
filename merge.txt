@@ -3,10 +3,14 @@ This is from the original
 This is from the original
 This is from the original
 
+This is from branch 1
+This is from branch 1
+This is from branch 1
+This is from branch 1
+
 This is from the original
 This is from the original
-This is from branch 2
-This is from the original
+This is a resolved conflict
 This is from the original
 
 This is from branch 2
